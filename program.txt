@@ -2,3 +2,7 @@ Main()
 {
 	print "hello world"
 }
+method()
+{
+	print "test"
+}
